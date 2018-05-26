@@ -1,0 +1,30 @@
+.description{
+    font-size: 100%;
+    font-weight: unset;
+}
+
+.garnet_bold{
+    color: #942734;
+    font-weight: bold;
+}
+
+.white_text{
+    color: white;
+}
+
+.form_text{
+    color: white;
+    font-size: 125%;
+}
+
+#success{
+    padding: 150px 0 300px 0;
+    background-color: #212529;
+    background-image: url("../img/cover.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#linkhome{
+    color: white;
+}
